@@ -1,0 +1,51 @@
+div{
+    color: #ffffff
+}
+.test-z{
+    width: auto;
+    min-height: 1000px;
+    background: url("anh/Rectangle\ 9.png"); 
+    background-size:cover;
+    background-repeat: no-repeat ;
+}
+.test-x{
+    color: aliceblue;
+    font-size: 40px;
+    margin-left: 20px;
+
+}
+.test-c {
+    list-style-type: none;
+    display:flex;
+}
+.logo{
+    margin-left: 600px;
+    position: absolute;
+    bottom: 820px;
+}
+.logo1{
+    margin-left: 1000px;
+    position: absolute;
+    bottom:820px ;
+}
+.px{
+    text-align: center;
+    margin-left: 590px;
+}
+.pz{
+    font-size: 30px;
+    margin-left: 600px;
+}
+.pc{
+    font-size:30px ;
+    margin-left: 850px;
+}
+.logo2{
+    margin-left: 780px;
+}
+.try{
+    font-size: 30px;
+    margin-left: 850px;
+    position: absolute;
+    bottom: 390px;
+}
